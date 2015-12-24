@@ -1,0 +1,14 @@
+[ 
+  {
+    'title':'',
+    'date':'',
+    'author':'',
+    'url': '',
+    'img': {
+      'original': {
+        'src' : '',
+        'alt': ''
+      }
+    },
+  }
+]
