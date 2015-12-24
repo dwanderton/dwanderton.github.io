@@ -12,11 +12,11 @@ For a couple years now accounting has been a once a year marathon, or should I s
 <center><i>image: <a>Steven Depolo CC BY 2.0</a></i></center>
 <br/>
 
-By far the worst feeling, when you know you should have a bit more process in place is when you finally start typing up your receipts only to find that the text has vanished!!! All you are left with is a blank rectangle with not even an indentation of the amount it used to show. If you are lucky perhaps you will have some brand printing to let you know the place of origination, but its little comfort as now its unusable. Totally. I even added my own two cents on the matter on [Law Stack Exchange][law-stack-exchange].
+By far the worst feeling, when you know you should have a bit more process in place, is when you finally start typing up your receipts only to find that the text has vanished!!! All you are left with is a blank rectangle with not even an indentation of the amount it used to show. If you are lucky perhaps you will have some brand printing to let you know the place of origination, but its little comfort as now its unusable. Totally. I even added my own two cents on the matter on [Law Stack Exchange][law-stack-exchange].
 
 I've collated a collection of key concerns, adapted from [this][sa-acca] Student Accountant article from the ACCA. Why? I've been key to build an accounting process that is straight forward, yet audit worthy. Quick, but able to provide detailed information for management accounting.
 
-While designing your process you should consider that each of the concerns below should be addressed by our accounting process. This will put us well on our way to ensuring that any and all transactions are appropriately and accurately accounted for.
+While designing your process you should consider that each of the concerns below need to be addressed by our accounting process. This will put us well on our way to ensuring that any and all transactions are appropriately and accurately accounted for.
 
 **Completeness**
 All transactions have been recorded in  financial statements – i.e. all assets, liabilities, equity interests (capital and reserves) and other disclosures have been included in the financial statements. 
