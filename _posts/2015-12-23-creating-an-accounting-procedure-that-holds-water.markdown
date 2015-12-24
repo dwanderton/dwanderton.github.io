@@ -7,6 +7,9 @@ categories: accounting
 
 For a couple years now accounting has been a once a year marathon, or should I say more appropriately Iron Man. I'm good at keeping receipts, or 'Source Documentation' as the cool kids like to refer to it. Problem is thats about as far as it gets, and when I look back at the humongous pile of receipts and invoices I very quickly feel like getting a cup of tea, taking that adventurous walk I never got around to, or even climbing a mountain (just not the one made of receipts).
 
+<center><img alt="David Anderton coding up a storm on Start-Up Bus EU 2015 second place" src="{{ site.baseurl }}/assets/img/2015/receipt_bundle.jpg" style="width:50%"></center>
+<center> _image: [Steven Depolo CC BY 2.0][photo-credit]_ </center>
+
 By far the worst feeling, when you know you should have a bit more process in place is when you finally start typing up your receipts only to find that the text has vanished!!! All you are left with is a blank rectangle with not even an indentation of the amount it used to show. If you are lucky perhaps you will have some brand printing to let you know the place of origination, but its little comfort as now its unusable. Totally. I even added my own two cents on the matter on [Law Stack Exchange][law-stack-exchange].
 
 I've collated a collection of key concerns, adapted from [this][sa-acca] Student Accountant article from the ACCA. Why? I've been key to build an accounting process that is straight forward, yet audit worthy. Quick, but able to provide detailed information for management accounting.
@@ -40,6 +43,6 @@ This means that transactions and events have been recorded in the correct accoun
 
 _disclaimer: This information should be considered as opinion, and not relied on for your accounting procedures or making any decisions. Always discuss accounting matters with a registered professional accountant in your jurisdiction. Use of the contents of this article is at your own risk._
 
-
+[photo-credit]:https://www.flickr.com/photos/stevendepolo/
 [law-stack-exchange]: http://law.stackexchange.com/questions/424/disappearing-ink-on-receipts-do-sellers-have-to-make-the-receipt-that-is-visibl/5986#5986
 [sa-acca]: http://www.accaglobal.com/content/dam/acca/global/PDF-students/2012s/sa_nov12_fau_f8_audit_procedures.pdf
