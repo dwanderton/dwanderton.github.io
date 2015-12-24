@@ -7,10 +7,10 @@ categories: accounting
 
 For a couple years now accounting has been a once a year marathon, or should I say more appropriately Iron Man. I'm good at keeping receipts, or 'Source Documentation' as the cool kids like to refer to it. Problem is thats about as far as it gets, and when I look back at the humongous pile of receipts and invoices I very quickly feel like getting a cup of tea, taking that adventurous walk I never got around to, or even climbing a mountain (just not the one made of receipts).
 
-
+<br/>
 <center><img href="https://www.flickr.com/photos/stevendepolo/" alt="Bundle of small business receipts" src="{{ site.baseurl }}/assets/img/2015/receipt_bundle.jpg" style="width:50%"></center>
 <center><i>image: <a>Steven Depolo CC BY 2.0</a></i></center>
-
+<br/>
 
 By far the worst feeling, when you know you should have a bit more process in place is when you finally start typing up your receipts only to find that the text has vanished!!! All you are left with is a blank rectangle with not even an indentation of the amount it used to show. If you are lucky perhaps you will have some brand printing to let you know the place of origination, but its little comfort as now its unusable. Totally. I even added my own two cents on the matter on [Law Stack Exchange][law-stack-exchange].
 
