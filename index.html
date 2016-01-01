@@ -10,6 +10,7 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       {% if post.category contains 'portfolio' %}
+        {{post.category}}
         // do nothing
       {% else if %}
         <li>
