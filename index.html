@@ -14,6 +14,7 @@ layout: default
         // do nothing
       {% else if %}
         <li>
+          {{post.category}}
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
           <h2>
