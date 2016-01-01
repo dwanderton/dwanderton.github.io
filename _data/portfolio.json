@@ -1,0 +1,14 @@
+[ 
+  {
+    'title':'Data Driven Journalism',
+    'date':'11/18/1988',
+    'author':'',
+    'url': 'google.com',
+    'img': {
+      'original': {
+        'src' : '',
+        'alt': ''
+      }
+    },
+  }
+]
