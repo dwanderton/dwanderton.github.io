@@ -10,7 +10,7 @@ _How exciting!_
  <h1 class="page-heading">Portfolio</h1>
 
   <ul class="post-list">
-    {% for item in site.portfolio %}
+    {% for item in site.data.portfolio %}
       <li>
         <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</span>
 
