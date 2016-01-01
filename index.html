@@ -10,11 +10,11 @@ layout: default
   <ul class="post-list">
     {% for post in site.posts %}
       {% if post.category contains 'portfolio' %}
-        {{post.category}}
+        {{post.categories}}
         // do nothing
       {% else if %}
         <li>
-          {{post.category}}
+          {{post.categories}}
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
           <h2>
