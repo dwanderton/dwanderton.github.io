@@ -21,7 +21,7 @@ permalink: /portfolio/
           <p>{{ post.excerpt }}</p>
         </li>
         
-        {% if post.url %}
+        {% if forloop.last == false %}
           <hr>
         {% endif %}
       {% endif %}
