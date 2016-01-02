@@ -2,7 +2,7 @@
 layout: post
 title:  "in4o"
 date:   2014-10-15 00:01 +0000
-img: 'http://lorempixel.com/401/102/people/'
+img: 'in4o.png'
 categories: portfolio
 ---
 

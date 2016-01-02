@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Airpair"
+title:  "Git-based $100k Developer Writing Competition"
 date:   2015-02-01 9:00 -0800
-img: 'http://lorempixel.com/398/103/sports/'
+img: 'writing_competion.png'
 categories: portfolio
 ---
 

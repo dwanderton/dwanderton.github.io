@@ -2,7 +2,7 @@
 layout: post
 title:  "Color Me Up"
 date:   2015-07-07 10:00 +0000
-img: 'http://lorempixel.com/398/103/sports/'
+img: 'color_me_up.png'
 categories: portfolio
 ---
 
