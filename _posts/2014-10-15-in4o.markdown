@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "in4o"
+date:   2014-10-15 00:01 +0000
+img: 'http://lorempixel.com/401/102/people/'
+categories: portfolio
+---
+
+This is a portfolio example
