@@ -6,4 +6,14 @@ img: 'mentive.png'
 categories: portfolio
 ---
 
-This is a portfolio example
+Mentive turns your online course from the world’s best content providers, and turns it into an interactive learning experience.
+
+<center>
+<br/>
+<img src="{{ site.url }}/assets/img/2015/mentive.png" style="width:80%">
+<br/>
+<cite>One of my profiles on Mentive</cite>
+</center>
+<br/>
+
+My main motivation in working with Mentive to give back to the community which has enabled me to carve a new reality for myself. Its been amazing enabling students to achieve their goals both in the course and beyond. They all are some of the brightest people in the world, and it is truly a privilege to get to know them. In many ways this commitment mirrors my work on [StackOverflow](http://stackoverflow.com/users/3700836/david-anderton?tab=profile) - attempting to give back to the awesome community of learners and teachers who freely give thier time.
