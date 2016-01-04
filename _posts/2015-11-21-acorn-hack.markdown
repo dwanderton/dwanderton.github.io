@@ -6,7 +6,7 @@ img: 'acorn_hack.jpg'
 categories: portfolio
 ---
 
-[AcornHack](http://acornhack.acornaspirations.co.uk/) was a 2-day Hackathon-style event, held at the [News UK](http://www.news.co.uk/) offices, where young people aged 16-19 collaborated with University tech students and mentors from the TechCity community to develop digital solutions to social problems in their local communities and worldwide. Serving as both a mentor and a developer my team of four 17 year-old girls won the grand prize and several other awards. 
+[AcornHack](http://acornhack.acornaspirations.co.uk/) was a 2-day Hackathon-style event, held at the [News UK](http://www.news.co.uk/) offices, where young people aged 16-19 collaborated with University tech students and mentors from the TechCity community to develop digital solutions to social problems in their local communities and worldwide. Serving as both a mentor and a developer my team of four 17 year-old budding developer-entrepreneur women won the grand prize and several other awards. 
 
 <center>
 <br/>
@@ -15,7 +15,7 @@ categories: portfolio
 </center>
 <br/>
 
-From encouraging the girls to get out and speak to their potential customers (their peers) for a revision app that was multi, rather than single, subject - through to chatting about the realities of deploying an app, we covered a lot of ground in 48 hours. We were super excited to launch our app, Study+, on the Google Play Store by the final presentations. 
+From encouraging the entreperneurial young ladies to get out and speak to their potential customers (their peers) for a revision app that was multi, rather than single, subject - through to chatting about the realities of deploying an app, we covered a lot of ground in 48 hours. We were super excited to launch our app, Study+, on the Google Play Store by the final presentations. 
 
 <center>
 <br/>
@@ -25,7 +25,7 @@ From encouraging the girls to get out and speak to their potential customers (th
 </center>
 <br/>
 
-There was a fantasic 'drop the mic' moment when the Editor of TechCrunch asked the girls about the technologies used, and commented _"We should probably ask the developer..."_ One of the girls grabbed the mic and explained in detail the reason why we had chosen to develop using ionic as opposed to native, and how our rails backend integrated. Blew the crowd, and myself, away.
+There was a fantasic 'drop the mic' moment when the Editor of TechCrunch asked the young ladies about the technologies used, and commented _"We should probably ask the developer..."_ One of the young ladies grabbed the mic and explained in detail the reason why we had chosen to develop using ionic as opposed to native, and how our rails backend integrated. Blew the crowd, and myself, away.
 
 <center>
 <br/>
