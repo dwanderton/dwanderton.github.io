@@ -16,4 +16,4 @@ in4o is a a secure, anonymous, online marketplace for non-sensitive, but non-pub
 </center>
 <br/>
 
-in4o looked to provide a secure and annoymous way reduce frictions for non-sensitive corporate information to be obtained by setting up a 'bounty' system of rewards and verifying respondents ability-to-know while keeping their identities anonymous from the askers and the administrators of in4o. We discussed in depth the thin ethical line that might be walked, with questions around how to maintain the integrity of an anonymised site that could be used for potentially illegal information sharing at the fore.
+in4o looked to provide a secure and anoymous way to reduce frictions for non-sensitive corporate information obtained by setting up a 'bounty' system of rewards and verifying respondents ability-to-know - while keeping their identities anonymous from the askers and the administrators of in4o. We discussed in depth the thin ethical line that might be walked, with questions around how to maintain the integrity of an anonymised site that could be used for potentially illegal information sharing at the fore.
