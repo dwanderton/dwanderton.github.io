@@ -6,14 +6,14 @@ img: 'in4o.png'
 categories: portfolio
 ---
 
-in4o is a a secure, anonymous, online marketplace for non-sensitive, but non-public corporate intelligence. in4o was a short project by myself, a Sloan MBA, and a MIT CS Grad who has been working in cinematography, gaming and AR.
+in4o is a a secure, anonymous, online marketplace for non-sensitive, but non-public corporate intelligence. A short project by myself, a <a href="https://twitter.com/psikorsky">Sloan MBA</a>, and a <a href="https://twitter.com/djzealot">MIT CS Grad</a> who has been working in cinematography, gaming and AR.
 
 <center>
 <br/>
-<img src="{{ site.url }}/assets/img/2014/in4o.jpg" style="width:50%">
+<img src="{{ site.url }}/assets/img/2014/in4o.jpg" style="width:80%">
 <br/>
 <cite>DEC Circuit Board Corporate Art by <a href="https://www.flickr.com/photos/philmanker/">Phil Manker</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></cite>
 </center>
 <br/>
 
-in4o looked to provide a secure and annoymous way reduce frictions for non-sensitive corporate information to be obtained by setting up a 'bounty' system of rewards and verifying respondents ability-to-know while keeping their identities anonymous from the askers and the administrators of in4o.
+in4o looked to provide a secure and annoymous way reduce frictions for non-sensitive corporate information to be obtained by setting up a 'bounty' system of rewards and verifying respondents ability-to-know while keeping their identities anonymous from the askers and the administrators of in4o. We discussed in depth the thin ethical line that might be walked, with questions around how to maintain the integrity of an anonymised site that could be used for potentially illegal information sharing at the fore.
