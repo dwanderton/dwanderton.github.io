@@ -6,4 +6,14 @@ img: 'in4o.png'
 categories: portfolio
 ---
 
-This is a portfolio example
+in4o is a a secure, anonymous, online marketplace for non-sensitive, but non-public corporate intelligence. in4o was a short project by myself, a Sloan MBA, and a MIT CS Grad who has been working in cinematography, gaming and AR.
+
+<center>
+<br/>
+<img src="{{ site.url }}/assets/img/2014/in4o.jpg" style="width:50%">
+<br/>
+<cite>DEC Circuit Board Corporate Art by <a href="https://www.flickr.com/photos/philmanker/">Phil Manker</a>, <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a></cite>
+</center>
+<br/>
+
+in4o looked to provide a secure and annoymous way reduce frictions for non-sensitive corporate information to be obtained by setting up a 'bounty' system of rewards and verifying respondents ability-to-know while keeping their identities anonymous from the askers and the administrators of in4o.

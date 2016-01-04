@@ -16,6 +16,6 @@ When you combine the sheer scale and range of digital information now available 
 </center>
 <br/>
 
-At MozFest 2011 I became involved with the manual to provide a one-stop shop for mostly self-taught data journalists to keep up-to-date with the latest tools and allow news rooms to become more 'data-literate'.
+At MozFest 2011 I became involved with the manual as a contributor. We aimed to provide a one-stop shop for mostly self-taught data journalists to keep up-to-date with the latest tools and allow newsrooms across the world to become more 'data-literate'.
 
 The book can be purchased from <a href="http://shop.oreilly.com/product/0636920025603.do">O'Reilly</a>, and is also available free under a CC BY-SA 3.0 licence <a href="http://datajournalismhandbook.org/1.0/en/">here</a>.
