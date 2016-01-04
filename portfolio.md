@@ -13,7 +13,9 @@ permalink: /portfolio/
       {% if post.url %}
       <br>
         <li>
-          <img src="{{site.url}}/assets/img/portfolio_header/{{post.img}}">
+          <a href="{{ post.url | prepend: site.baseurl }}">
+            <img src="{{site.url}}/assets/img/portfolio_header/{{post.img}}">
+          </a>
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>

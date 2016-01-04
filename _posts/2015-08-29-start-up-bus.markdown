@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Power Couple / Startup Bus"
+title:  "Power Couple / Startup Bus / Pirate Summit"
 date:   2015-08-29 06:00 +0000
 img: 'start_up_bus.jpg'
 categories: portfolio
@@ -26,4 +26,15 @@ PowerCouple was an application designed to help couples achieve goals, and be mo
 </center>
 <br/>
 
-After being the most well received pitch to the Belgian Deputy Prime Minister our team went on to postition second in the European competition. We were offered investment and incubation by Allianz, that we decided to turn down.
+After being the most well received pitch to the Belgian Deputy Prime Minister our team went on to postition second in the European competition. We were offered investment and incubation by Allianz, that we decided to turn down. 
+
+As one of the leading Startup Bus contenders we entered several final rounds of pitches at [Pirate Summit](http://piratesummit.com) in Cologne to place second.
+
+<center>
+<br/>
+<img src="{{ site.url }}/assets/img/2015/pirate_summit.jpg" style="width:80%">
+<br/>
+<cite>PowerCouple Team, Lillian Le</cite>
+</center>
+<br/>
+
