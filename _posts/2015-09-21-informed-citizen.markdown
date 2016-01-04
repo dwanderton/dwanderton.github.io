@@ -18,7 +18,7 @@ A screenshot from the app below.
 
 <center>
 <br/>
-<img src="{{ site.url }}/assets/img/2015/informed_citizen_2.png" style="width:80%">
+<img src="{{ site.url }}/assets/img/2015/informed_citizen_2.png" style="width:50%">
 <br/>
 <cite>informedCitzen Data Pulse on iOS</cite>
 </center>
