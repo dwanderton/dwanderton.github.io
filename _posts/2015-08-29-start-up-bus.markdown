@@ -20,6 +20,15 @@ PowerCouple was an application designed to help couples achieve goals, and be mo
 
 <center>
 <br/>
+<img src="{{ site.url }}/assets/img/2015/startup_bus.jpg" style="width:80%">
+<br/>
+<cite>Pitching PowerCouple in a London Eye Capsule</cite>
+</center>
+<br/>
+
+
+<center>
+<br/>
 <img src="{{ site.url }}/assets/img/2015/startup_bus_stuck.jpg" style="width:80%">
 <br/>
 <cite>The StartupBus fits (just) in Europe so it sits, David Anderton</cite>

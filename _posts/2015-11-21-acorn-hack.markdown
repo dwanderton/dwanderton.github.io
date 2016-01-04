@@ -6,14 +6,40 @@ img: 'acorn_hack.jpg'
 categories: portfolio
 ---
 
-This is a portfolio example
+[AcornHack](http://acornhack.acornaspirations.co.uk/) was a 2-day Hackathon-style event, held at the [News UK](http://www.news.co.uk/) offices, where young people aged 16-19 collaborated with University tech students and mentors from the TechCity community to develop digital solutions to social problems in their local communities and worldwide. Serving as both a mentor and a developer my team of four 17 year-old girls won the grand prize and several other awards. 
 
 <center>
+<br/>
+<blockquote class="twitter-tweet" lang="en"><p lang="und" dir="ltr">Team Innovators!❤️ <a href="https://twitter.com/hashtag/AcornHack?src=hash">#AcornHack</a> <a href="https://twitter.com/hashtag/GEWmakeit?src=hash">#GEWmakeit</a> <a href="https://twitter.com/AcornAspiration">@AcornAspiration</a> <a href="https://t.co/ykjkMEOq7C">pic.twitter.com/ykjkMEOq7C</a></p>&mdash; fahima (@Fahima_Akther) <a href="https://twitter.com/Fahima_Akther/status/668479466260271104">November 22, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+<br/>
+
+From encouraging the girls to get out and speak to their potential customers (their peers) for a revision app that was multi, rather than single, subject - through to chatting about the realities of deploying an app, we covered a lot of ground in 48 hours. We were super excited to launch our app, Study+, on the Google Play Store by the final presentations. 
+
+<center>
+<br/>
+<img src="{{ site.url }}/assets/img/2015/acorn_hack_6.jpg" style="width:80%">
+<br/>
+<cite>Drop the mic moment.</cite>
+</center>
+<br/>
+
+There was a fantasic 'drop the mic' moment when the Editor of TechCrunch asked the girls about the technologies used, and commented _"We should probably ask the developer..."_ One of the girls grabbed the mic and explained in detail the reason why we had chosen to develop using ionic as opposed to native, and how our rails backend integrated. Blew the crowd, and myself, away.
+
+<center>
+<br/>
+<img src="{{ site.url }}/assets/img/2015/acorn_hack_1.jpg" style="width:80%">
+<br/>
+<cite>Corageously questioning, and sizing up the competition!</cite>
+</center>
+<br/>
+
+It was inspiring to see the confidence and tenacity throughout the presentation. Despite being infront of the Interim Director of TechStars, Editor of TechCrunch, countless CEOs and developers you couldn't sense any nerves. Flawless deliveries were the flavor of the event, with each of the teams making incredible progress from the starting blocks.
+
+<center>
+<br/>
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">All girl team pitching <a href="https://twitter.com/AcornAspiration">@AcornAspiration</a> <a href="https://twitter.com/hashtag/AcornHack?src=hash">#AcornHack</a> quoting <a href="https://twitter.com/Malala">@Malala</a> with their pitch for study+ <a href="https://t.co/qPbwyGdBVp">pic.twitter.com/qPbwyGdBVp</a></p>&mdash; Digital Jam Ltd (@DigitalJamLtd) <a href="https://twitter.com/DigitalJamLtd/status/668465042619293698">November 22, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
-
-<center>
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Great learning to code workshop this weekend with <a href="https://twitter.com/AcornAspiration">@AcornAspiration</a> for <a href="https://twitter.com/GEWUK">@GEWUK</a> well done all! <a href="https://t.co/CuPgb5JV5C">https://t.co/CuPgb5JV5C</a> <a href="https://t.co/fb2BWmTAyh">pic.twitter.com/fb2BWmTAyh</a></p>&mdash; News Academy (@the_newsacademy) <a href="https://twitter.com/the_newsacademy/status/668764143164461056">November 23, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
+<br/>
