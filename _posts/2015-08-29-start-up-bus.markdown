@@ -28,7 +28,7 @@ PowerCouple was an application designed to help couples achieve goals, and be mo
 
 After being the most well received pitch to the Belgian Deputy Prime Minister our team went on to postition second overall in the European competition. We were offered investment and incubation by Allianz, that we decided to turn down. 
 
-Also as one of the leading Startup Bus contenders we also were entered into several further rounds of pitches at [Pirate Summit](http://piratesummit.com) in Cologne on the main event stage in which we again peformed as one of the top two pitches.
+As one of the leading Startup Bus contenders we also were entered into several further rounds of pitches at [Pirate Summit](http://piratesummit.com) in Cologne on the main event stage in which we again peformed as one of the top two pitches.
 
 <center>
 <br/>
