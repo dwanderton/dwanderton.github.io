@@ -7,6 +7,9 @@ categories: accounting
 
 For a couple years now accounting has been a once a year marathon, or should I say more appropriately Iron Man. I'm good at keeping receipts, or 'Source Documentation' as the cool kids like to refer to it. Problem is thats about as far as it gets, and when I look back at the humongous pile of receipts and invoices I very quickly feel like getting a cup of tea, taking that adventurous walk I never got around to, or even climbing a mountain (just not the one made of receipts).
 
+--edit: 11 Mar 16-- 
+Check out [Xpenditure](https://xpenditure.com/en/) for a cool OCR tool to read receipts. Its been a life saver :)
+
 <br/>
 <center><img alt="Bundle of small business receipts" src="{{ site.baseurl }}/assets/img/2015/receipt_bundle.jpg" style="width:50%"></center>
 <center><i>image: <a target="_blank" href="https://www.flickr.com/photos/stevendepolo/" >Steven Depolo CC BY 2.0</a></i></center>
