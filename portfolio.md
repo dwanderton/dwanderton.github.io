@@ -5,6 +5,7 @@ permalink: /portfolio/
 ---
 
 <div class="home">
+  <!--
   <h1 class="page-heading">Portfolio</h1>
 
   <ul class="post-list">
@@ -29,4 +30,5 @@ permalink: /portfolio/
       {% endif %}
     {% endfor %}
   </ul>
+  -->
 </div>
