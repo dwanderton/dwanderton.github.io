@@ -6,7 +6,7 @@ img: 'mentive.png'
 categories: portfolio
 ---
 
-I've mentored several courses at<a href="https://www.mentive.co/">Mentive</a>. Knowledge turns dreams into reality. Education brings knowledge. Mentive is a global educational community where students and mentors meet to turn any online course into an interactive learning experience.
+I've mentored several courses at <a href="https://www.mentive.co/">Mentive</a>. Knowledge turns dreams into reality. Education brings knowledge. Mentive is a global educational community where students and mentors meet to turn any online course into an interactive learning experience.
 
 <center>
 <br/>
