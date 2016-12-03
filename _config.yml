@@ -16,6 +16,7 @@ url: "https://dwanderton.github.io" # the base hostname & protocol for your site
 twitter_username: false
 github_username:  dwanderton
 stackoverflow_userurl: 3700836/david-anderton
+stackoverflow_username: David Anderton
 
 # Build settings
 markdown: kramdown
