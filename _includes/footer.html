@@ -24,6 +24,11 @@
             {% include icon-stackoverflow.html url=site.stackoverflow_userurl username=site.stackoverflow_username %}
           </li>
           {% endif %}
+          {% if site.linkedin_userurl %}
+          <li>
+            {% include icon-linkedin.html url=site.linkedin_userurl username=site.linkedin_username %}
+          </li>
+          {% endif %}
 
           {% if site.twitter_username %}
           <li>
