@@ -6,7 +6,7 @@ img: 'start_up_bus.jpg'
 categories: portfolio
 ---
 
-PowerCouple was developed while travelling from London to Cologne using a double-decker bus - a feat easier imagined than executed. We had 72 hours to start a new business, and pitch our ideas, in competition with 80 other startups. We were featured in the most read business magazine in Europe, <a href="http://businesslife.ba.com/Ideas/Features/All-aboard-the-startup-bus.html">BA Business Life</a>.
+PowerCouple was developed while travelling from London to Cologne using a double-decker bus - a feat easier imagined than executed. We had 72 hours to start a new business, and pitch our ideas, in competition with 80 other startups. We were featured in the most read business magazine in Europe, <a href="http://businesslife.ba.com/Ideas/Features/All-aboard-the-startup-bus.html">BA Business Life</a> and took second place in the competition.
 
 <center>
 <br/>
@@ -37,7 +37,7 @@ PowerCouple was an application designed to help couples achieve goals, and be mo
 
 After being the most well received pitch to the Belgian Deputy Prime Minister our team went on to postition second overall in the European competition. We were offered investment and incubation by Allianz, that we decided to turn down. 
 
-As one of the leading Startup Bus contenders we also were entered into several further rounds of pitches at [Pirate Summit](http://piratesummit.com) in Cologne on the main event stage in which we again peformed as one of the top two pitches.
+As one of the leading Startup Bus contenders we also were entered into several further rounds of pitches at [Pirate Summit](http://piratesummit.com) in Cologne on the main event stage in which we came in second place.
 
 <center>
 <br/>
