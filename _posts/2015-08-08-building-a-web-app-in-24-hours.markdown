@@ -6,7 +6,7 @@ img: 'web_app_24_hours.png'
 categories: portfolio
 ---
 
-24 hours to test your latest and greatest idea. That’s all it takes. Don’t add another idea to the pile, leaving it to spend the next decade not being built. The worst feeling is when someone else goes big with an idea you thought only you could have.
+24 hours to test your latest and greatest idea. That’s all it takes. Don’t add another idea to the pile, leaving it to spend the next decade not being built. The worst feeling is when someone else goes big with an idea you thought only you could have. I'm currently in the process of developing a MOOC course covering this topic!
 
 <center>
 <br/>
@@ -16,4 +16,4 @@ categories: portfolio
 </center>
 <br/>
 
-Ideas are common, but people building and testing out their ideas is rare. In this course, currently under development, we’ll equip you with the mindset and tools to get your Phd in making stuff happen. Start making and stop regretting.
+Ideas are common, but people building and testing out their ideas is rare. In this course we’ll equip you with the mindset and tools to get your Phd in making stuff happen. Start making and stop regretting.
