@@ -6,7 +6,7 @@ img: 'cacophonly.png'
 categories: portfolio
 ---
 
-[Cacophonly](https://cacophonly.com/) was an experiment to see how users would respond to the possibility of making and moderating annoymous statements. As a user types a hashtag they are presented with other statements that have used similar hashtags - in order to stimulate a 'debate at a distance'. You only interact with emotive statements that are relevant to your entered hashtags so noise is limited to your perceived interest.
+[Cacophonly](https://cacophonly.com/) was an experiment to see how users would respond to the possibility of making and moderating annoymous statements. As a user types a hashtag they are presented with other statements that have used similar hashtags - in order to stimulate a 'debate at a distance'. You only interact with emotive statements that are relevant to your entered hashtags so noise is limited to your expressed hashtag interest.
 
 <center>
 <br/>
