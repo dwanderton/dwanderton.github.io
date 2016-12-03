@@ -19,12 +19,18 @@
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
+          {% if site.stackoverflow_userurl %}
+          <li>
+            {% include icon-stackoverflow.html url=site.stackoverflow_userurl %}
+          </li>
+          {% endif %}
 
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+          
         </ul>
       </div>
 
