@@ -6,13 +6,7 @@ img: 'informed_citizen.png'
 categories: portfolio
 ---
 
-[informedCitzen](http://informedcitizen.co/) gives people the power, through vizualization, to quickly and intuitively analyze and share data linked to the performance of public officials. It was released as an iOS and Android app, built using ionic and AngularFire (Angular.JS and Firebase). It is now no longer available on the App or Play stores.
-
-<center>
-<br/>
-<iframe src="http://informedcitizen.co/" style="width:80%; height:600px; overflow:hidden;" scrolling="no"></iframe>
-</center>
-<br/>
+informedCitzen gives people the power, through vizualization, to quickly and intuitively analyze and share data linked to the performance of public officials. It was released as an iOS and Android app, built using ionic and AngularFire (Angular.JS and Firebase). It is now no longer available on the App or Play stores.
 
 A screenshot from the app below.
 
