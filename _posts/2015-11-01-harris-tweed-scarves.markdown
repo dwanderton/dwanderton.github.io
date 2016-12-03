@@ -17,7 +17,7 @@ I produced a collection of scarves made from Harris Tweed for the Autumn/Winter 
 
 <center>
 <br/>
-<img src="{{ site.url }}/assets/img/2015/harris-tweed2.jpg" style="width:80%">
+<img src="{{ site.url }}/assets/img/2015/harris-tweed-2.jpg" style="width:80%">
 <br/>
 </center>
 <br/>
