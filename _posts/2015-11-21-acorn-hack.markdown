@@ -6,7 +6,7 @@ img: 'acorn_hack.jpg'
 categories: portfolio
 ---
 
-[AcornHack](http://acornhack.acornaspirations.co.uk/) was a 2-day Hackathon-style event, held at the [News UK](http://www.news.co.uk/) offices, gfo young people aged 16-19 collaborated with University tech students to develop digital solutions to social problems. I Served as both a mentor and a developer with my team of four 17 year-old budding developer-entrepreneur women winning the grand prize and several other awards. 
+[AcornHack](http://acornhack.acornaspirations.co.uk/) was a 2-day Hackathon-style event, held at the [News UK](http://www.news.co.uk/) offices, of young people aged 16-19 collaborated with University tech students to develop digital solutions to social problems. I was both a mentor and a developer with my team of four 17 year-old budding developer-entrepreneur women winning the grand prize and several other awards. 
 
 <center>
 <br/>
