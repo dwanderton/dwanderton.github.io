@@ -10,7 +10,7 @@ I was invited to judge applicants to MIT's Accelerate competition which is the s
 
 <center>
 <br/>
-<img src="{{ site.url }}/assets/img/2016/100k.png" style="width:80%">
+<img src="{{ site.url }}/assets/img/2016/100k.jpeg" style="width:80%">
 <br/>
 </center>
 <br/>
