@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MITx London Entrepreneurship Series"
-date:   2016-12-01 00:01 +0000
+date:   2016-11-30 00:01 +0000
 img: 'mitx_london_30_november.png'
 categories: portfolio
 ---
