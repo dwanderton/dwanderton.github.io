@@ -16,5 +16,4 @@ WhyAfrica is a news platform for Africa that utilizes realtime editing and propa
 </center>
 <br/>
 
-
-Launch is scheduled for 2016.
+Since its inception in 2014 WhyAfrica has undergone an incredible transformation and is now partnered with the Business Council for Africa in the UK. 
