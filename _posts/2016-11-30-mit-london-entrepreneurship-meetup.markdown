@@ -17,4 +17,4 @@ https://www.eventbrite.com/e/mit-global-entrepreneurship-london-who-is-your-cust
 </center>
 <br/>
 
-Most entrepreneurship events in London are "boring lectures" as one participant, an MIT Biology graduate, put it. This event took attendees out into the wild for the opportunity to learn directly from their customer based upon our geniune desires be curious to learn more about each other. 
+Most entrepreneurship events in London are "boring lectures" as one participant, an MIT Biology graduate, put it. This event took attendees out into the wild for the opportunity to learn directly from their customer, based upon their geniune desire and curiousity to learn more about each other. 
