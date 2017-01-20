@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Forbes 30 Under 30 2017"
+date:   2016-12-01 00:01 +0000
+img: 'forbes-30-under-30-david-anderton.png'
+categories: portfolio
+---
+
+Awarded membership to the prestigious <a href="http://www.forbes.com/profile/david-anderton" target="_blank">30 Under 30 Class of 2017</a>: 300 of the brightest young entrepreneurs, leaders, stars to watch out for in Europe.
+
+<center>
+<br/>
+<img src="{{ site.url }}/assets/img/2017/forbes-30-under-30-david-anderton.png" style="width:80%">
+<br/>
+</center>
+<br/>
