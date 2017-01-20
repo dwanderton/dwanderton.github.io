@@ -10,7 +10,7 @@ Awarded membership to the prestigious <a href="http://www.forbes.com/profile/dav
 
 <center>
 <br/>
-<img src="{{ site.url }}/assets/img/2017/forbes-30-under-30-david-anderton.png" style="width:80%">
+<img src="{{ site.url }}/assets/img/2017/forbes-30-under-30-david-anderton.jpg" style="width:80%">
 <br/>
 </center>
 <br/>
