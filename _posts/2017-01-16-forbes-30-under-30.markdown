@@ -2,7 +2,7 @@
 layout: post
 title:  "Forbes 30 Under 30 2017"
 date:   2017-01-16 00:01 +0000
-img: 'forbes-30-under-30-david-anderton.jpg'
+img: 'forbes-30-under-30-david-anderton.png'
 categories: portfolio
 ---
 
